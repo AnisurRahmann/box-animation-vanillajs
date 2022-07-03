@@ -1,4 +1,4 @@
-setInterval(animateBox, 50);
+setInterval(animateBox, 1000);
 
 function animateBox() {
   var element = document.getElementById("box");
